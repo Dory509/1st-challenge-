@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 
 
 ### Screenshots
-
+![Screenshot](./Screenshot%202024-09-12%20at%202.32.33%20PM.png)
 
 ### Deployment
-[Live]()
+[Live](https://dory509.github.io/1st-challenge-/)
